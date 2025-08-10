@@ -12,13 +12,11 @@ A quiz application built with React and TypeScript. Features multiple difficulty
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 ```bash
 git clone https://github.com/harshithabs109/Mathquiz.git
 cd Mathquiz
 npm install
-npm start```
+npm start
 
    
 Open your browser and go to [http://localhost:3000](http://localhost:3000)
