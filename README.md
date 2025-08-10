@@ -27,7 +27,7 @@ Open your browser and go to [http://localhost:3000](http://localhost:3000)
 ![Quiz in Progress](./Screenshots/Screenshot(60).png)
 
 ### Final Score Summary
-![Final Score Summary](./Screenshots/Screenshot(61).png)
+![Final Score Summary](./Screenshots/Screenshot61))
 ## Usage
 
 - Select the difficulty level from the dropdown.
