@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+# Math Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A quiz application built with React and TypeScript. Features multiple difficulty levels, timer per question, score tracking, and a summary of answers.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Choose difficulty level (Easy, Medium, Hard)
+- Timer countdown for each question
+- View score and detailed summary at the end
+- Restart and early quit options
+- Responsive and styled UI using styled-components
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repository:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+   ```bash
+   git clone https://github.com/harshithabs109/Mathquiz.git```
 
-### `npm test`
+   ```bash
+   cd Mathquiz```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   npm install```
 
-### `npm run build`
+   ```bash
+   npm start```
+   
+Open your browser and go to [http://localhost:3000](http://localhost:3000)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Select the difficulty level from the dropdown.
+- Click **Start** to begin the quiz.
+- Answer each question within the time limit.
+- View your final score and detailed summary of your answers at the end.
+- You can restart the quiz or end early anytime.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- React with TypeScript  
+- styled-components for styling  
+- Open Trivia Database API for quiz questions  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
