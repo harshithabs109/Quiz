@@ -21,6 +21,14 @@ npm start
    
 Open your browser and go to [http://localhost:3000](http://localhost:3000)
 
+## Screenshots
+
+### Quiz in Progress
+![Quiz in Progress](./screenshots/Screenshot(60).png)
+
+### Final Score Summary
+![Final Score Summary][Screenshot (61).png…]
+
 ## Usage
 
 - Select the difficulty level from the dropdown.
