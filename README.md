@@ -24,10 +24,10 @@ Open your browser and go to [http://localhost:3000](http://localhost:3000)
 ## Screenshots
 
 ### Quiz in Progress
-![Quiz in Progress](/Screenshots/Screenshot1.png)
+![Quiz in Progress](Screenshot1.png)
 
 ### Final Score Summary
-![Final Score Summary](/Screenshots/Screenshot2.png)
+![Final Score Summary](Screenshot2.png)
 
 ## Usage
 
