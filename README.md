@@ -17,7 +17,7 @@ git clone https://github.com/harshithabs109/Mathquiz.git
 cd Mathquiz
 npm install
 npm start
-
+```
    
 Open your browser and go to [http://localhost:3000](http://localhost:3000)
 
